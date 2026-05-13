@@ -24,7 +24,6 @@ public class ModCreativeTabs {
                         output.accept(ModItems.VENOMOUS_INDUCTOR.get());
                         output.accept(ModItems.BLINDING_INDUCTOR.get());
                         output.accept(ModItems.HASTE_INDUCTOR.get());
-                        output.accept(ModItems.THROAT_SLIT_INDUCTOR.get());
                         output.accept(ModItems.TETHER_INDUCTOR.get());
                         output.accept(ModItems.PIERCING_INDUCTOR.get());
                         output.accept(ModItems.SHATTERING_INDUCTOR.get());

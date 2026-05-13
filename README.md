@@ -32,7 +32,6 @@ Applied via a **Special Template** on specific weapons only.
 |---|---|---|---|
 | `blood_reaper_inductor` | Pulls target toward attacker on hit, allows shooting blood projectiles | Netherite Scythe only | Rotten Flesh (top), Iron Ingots (sides), Red Dye (bottom) |
 | `piercing_inductor` | Trident pierces unlimited entities | Trident only | 4x Prismarine Shard + 2x Prismarine Crystals |
-| `throat_slit_inductor` | *(Registered, not yet implemented)* | Arm blades only | Uncraftable |
 | `tether_inductor` | *(Registered, not yet implemented)* | Grappling Hook only | Uncraftable |
 | `shattering_inductor` | *(Registered, not yet implemented)* | Mace only | Uncraftable |
 
@@ -295,7 +294,6 @@ All crafting shapes and inductor smithing recipes are handled programmatically v
 
 | Item | Status |
 |---|---|
-| `throat_slit_inductor` | Registered, no recipe or effect |
 | `tether_inductor` | Registered, no recipe or effect |
 | `shattering_inductor` | Registered, no recipe or effect |
 | All Armor Telucite Inductors | Registered, no recipes or effects |

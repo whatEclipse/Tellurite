@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "minecraft:sharpness",
+    "minecraft:smite",
+    "minecraft:bane_of_arthropods",
+    "minecraft:fire_aspect",
+    "minecraft:density",
+    "minecraft:impaling",
+    "minecraft:power",
+    "minecraft:protection",
+    "minecraft:blast_protection",
+    "minecraft:fire_protection",
+    "minecraft:projectile_protection",
+    "minecraft:feather_falling",
+    "minecraft:thorns",
+    "minecraft:wind_burst",
+    "minecraft:efficiency",
+    "minecraft:fortune",
+    "minecraft:respiration",
+    "minecraft:mending",
+    "minecraft:unbreaking",
+    "minecraft:piercing"
+  ]
+}

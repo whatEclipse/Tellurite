@@ -11,7 +11,8 @@
     "MobEffectInstanceMixin",
     "LivingEntityMixin",
     "ThrownTridentMixin",
-    "AbstractArrowAccessor"
+    "AbstractArrowAccessor",
+    "ItemStackMixin"
   ],
   "client": [],
   "server": []

@@ -14,6 +14,5 @@ public class ModClientEvents {
     @SubscribeEvent
     public static void registerRenderers(EntityRenderersEvent.RegisterRenderers event) {
         event.registerEntityRenderer(ModEntities.BLOOD_PROJECTILE.get(), BloodProjectileRenderer::new);
-        event.registerEntityRenderer(ModEntities.GRAPPLING_HOOK.get(), net.whateclipse.tellurite.client.renderer.GrapplingHookRenderer::new);
     }
 }

@@ -33,8 +33,6 @@ public class ModItems {
                         () -> new Item(new Item.Properties()));
 
         // Special Telucite Inductors
-        public static final DeferredItem<Item> THROAT_SLIT_INDUCTOR = ITEMS.register("throat_slit_inductor",
-                        () -> new Item(new Item.Properties()));
         public static final DeferredItem<Item> TETHER_INDUCTOR = ITEMS.register("tether_inductor",
                         () -> new Item(new Item.Properties()));
         public static final DeferredItem<Item> PIERCING_INDUCTOR = ITEMS.register("piercing_inductor",
@@ -81,9 +79,6 @@ public class ModItems {
         // Debug items
         public static final DeferredItem<Item> BLOOD_PROJECTILE_DEBUG = ITEMS.register("blood_projectile_debug",
                         () -> new net.whateclipse.tellurite.items.custom.BloodProjectileDebugItem(new Item.Properties()));
-
-        public static final DeferredItem<Item> GRAPPLING_HOOK = ITEMS.register("grappling_hook",
-                        () -> new net.whateclipse.tellurite.items.custom.GrapplingHookItem(new Item.Properties()));
 
         public static void register(IEventBus eventBus) {
                 ITEMS.register(eventBus);
